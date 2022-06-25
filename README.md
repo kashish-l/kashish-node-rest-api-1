@@ -5,19 +5,19 @@ Kashish Lathidadia
 ## Installation
 npm install
 
-Create a .env file and add\n
-PORT=3000\n
+Create a .env file and add
+PORT=3000
 EXTERNAL_URL=https://api.hatchways.io/assessment/blog/posts?tag=
 
 ## Run
 npm start
 
 ## Technologies
-Node.js\n
-express.js\n
-axios\n
-router\n
-dotenv\n
+Node.js
+express.js
+axios
+router
+dotenv
 
 ## Routes
 /api/ping
