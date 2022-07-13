@@ -3,7 +3,7 @@ npm install
 
 Create a .env file and add  
 PORT=3000  
-EXTERNAL_URL=<Hatchways API URL>  
+EXTERNAL_URL= Hatchways API URL  
 
 ## Run
 npm start  
