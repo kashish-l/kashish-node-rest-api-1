@@ -1,3 +1,9 @@
+## About
+A simple backend JSON REST API which fetches data from another REST API  
+For every tag specified in the tags parameter, fetch the posts with that tag using the Hatchways API (make a separate API request for every tag specified)  
+  
+Combine all the results from the API requests above and remove all the repeated posts  
+
 ## Installation
 npm install  
 
